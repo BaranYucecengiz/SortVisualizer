@@ -1,2 +1,2 @@
 # SortVisualizer
-Visualizing Sorting Algorithms with SFML Library
+Visualizing Sorting Algorithms
